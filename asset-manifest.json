@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29bc8131.css",
+    "main.js": "/static/js/main.f1119294.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mcg.png": "/static/media/mcg.aa4c3f6c9a62d7a25945.png",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Gowtham Mahadikar.pdf": "/static/media/Gowtham Mahadikar.07e31c1a521543bb8fa4.pdf",
+    "static/media/logo.png": "/static/media/logo.50bd8ab3c67531cad538.png",
+    "static/media/dscelogo.jpg": "/static/media/dscelogo.0b8b096105b4501e06b6.jpg",
+    "static/media/structure.jpeg": "/static/media/structure.955a9b1c04819e939b02.jpeg",
+    "static/media/rnslogo.jpg": "/static/media/rnslogo.388002e94271e0a10528.jpg",
+    "static/media/daali.png": "/static/media/daali.7afe2a050d5ae65097f3.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/contentease1.jpg": "/static/media/contentease1.e22914f859bb9c656cb8.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
+    "main.f1119294.js.map": "/static/js/main.f1119294.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bc8131.css",
+    "static/js/main.f1119294.js"
+  ]
+}
